@@ -3,7 +3,7 @@
 Hot-reload your config file without restarting your Go process.
 
 ```
-go get github.com/IT20122614/hotconf
+go get github.com/madushanshk98/hotconf
 ```
 
 Requires **Go 1.21+** (uses generics and `atomic.Pointer[T]`).
@@ -31,7 +31,7 @@ import (
     "log"
     "net/http"
 
-    "github.com/IT20122614/hotconf"
+    "github.com/madushanshk98/hotconf"
 )
 
 type Config struct {

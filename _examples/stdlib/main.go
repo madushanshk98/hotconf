@@ -12,7 +12,7 @@ import (
 	"os/signal"
 	"syscall"
 
-	"github.com/IT20122614/hotconf"
+	"github.com/madushanshk98/hotconf"
 )
 
 // AppConfig is your application's configuration struct. Add whatever fields

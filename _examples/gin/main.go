@@ -13,8 +13,8 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/IT20122614/hotconf"
 	"github.com/gin-gonic/gin"
+	"github.com/madushanshk98/hotconf"
 )
 
 // AppConfig mirrors whatever struct your existing Gin app already uses.
